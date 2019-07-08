@@ -5,8 +5,18 @@
  */
 header {
   padding: 156px 0 100px;
+  background: url('../img/lexmesh_logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 section {
   padding: 150px 0;
+}
+
+footer {
+  background: url('../img/lexmesh_logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
 }
